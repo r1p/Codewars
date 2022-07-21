@@ -7,7 +7,7 @@ pig_it('Pig latin is cool') # igPay atinlay siay oolcay
 pig_it('Hello world !')     # elloHay orldway !
 
 Categories:
-#Regular Expressions #Algorithms
+#RegularExpressions #Algorithms
 
 Solve date:
 21 Jul 2021 
