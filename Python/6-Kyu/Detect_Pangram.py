@@ -10,7 +10,6 @@ Solve date:
 21 Jul 2021 
 '''
 
-
 import string
 
 def is_pangram(s):
