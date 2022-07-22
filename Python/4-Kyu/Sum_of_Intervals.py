@@ -45,7 +45,6 @@ Solve date:
 16 Jul 2022
 '''
 
-
 def sum_of_intervals(intervals):
     toReturnWithDuped = []
     for interval in intervals:
